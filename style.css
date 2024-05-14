@@ -449,15 +449,15 @@ section.skills .skill .item1:hover{
 
  section.skills .item1 .progress-bar .progress{
      height: 100%;
-     width: 70%;
+     width: 60%;
      background: var(--color-primary);
  }
 
  section.skills .item1:nth-child(2) .progress-bar .progress{
-     width: 60%;
+     width: 50%;
  }
  section.skills .item1:nth-child(3) .progress-bar .progress{
-    width: 15%;
+    width: 25%;
 }
 
 /*================NEXT====================*/
@@ -487,13 +487,10 @@ section.skills .skill .item2:hover{
 
  section.skills .item2 .progress-bar .progress{
      height: 100%;
-     width: 70%;
+     width: 40%;
      background: var(--color-primary);
  }
 
- section.skills .item2:nth-child(2) .progress-bar .progress{
-     width: 60%;
- }
  /*==============NEXT=============*/
 
  section.skills .skill .item3{
@@ -527,6 +524,10 @@ section.skills .skill .item3:hover{
  section.skills .item3:nth-child(2) .progress-bar .progress{
      width: 60%;
  }
+
+ section.skills .item3:nth-child(3) .progress-bar .progress{
+    width: 45%;
+}
 
  /*==========================SERVICES==================*/
 
