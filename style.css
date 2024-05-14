@@ -586,7 +586,7 @@ section.skills .skill .item3:hover{
 
  section.recent-work .projects {
      display: grid;
-     grid-template-columns: 0.86fr 0.95fr;
+     grid-template-columns: 0.95fr 0.95fr;
      gap: 5rem;
  }
 
