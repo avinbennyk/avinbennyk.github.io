@@ -162,7 +162,7 @@ nav h3 {
     font-family: “Montserrat”, san-serif;
     font-size: 1.8rem;
     color: white;
-    background: url('./Photos/zgh.png');
+    background: url('./photos/zgh.png');
     background-size: auto 200%;
     -webkit-background-clip: text;
     background-clip: text;
@@ -664,7 +664,7 @@ section.testimonials .testimonial .head .stars span{
 /*=============================contact=======================*/
 
 section.contact{
-    background: url(/Photos/backimg.JPG)
+    background: url(/photos/backimg.JPG)
     no-repeat center center/cover;
     padding: 0;
     max-width: 100vw;
